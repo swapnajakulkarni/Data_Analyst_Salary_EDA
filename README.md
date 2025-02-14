@@ -22,7 +22,7 @@
     - which job title was in demand from last few years?
     - what category is highly paid last year?
     - which location demand most number of resources?
-    - which location/job title gives more revenue?
+    
 ##  Data Sources
     - Data file/Input sources
         - kaggle Dataset
@@ -38,7 +38,7 @@
         -  Data Cleaning & Formatting
 ## Exploratory Data Analysis
         I performed EDA to answer important questions like
-        - What is overall profit?
+        - What is overall analysis?
         - Which are top five category openings was in market?
         - What is peak time peroide?
 ## Data Analysis
@@ -69,7 +69,18 @@
 ## Result /Findings
 
 
-       
+       1.Top two highest paying  and most job opening category are
+           -  Data Science and Research     35%
+           -  Data Engineering              26%
+        2. Highest Mean salary paid last year
+           - Cloud and DB Engineer
+           - Machine Learning & AI Engineer
+        3. Highest Paying salary Experince wise
+          - Analytics Manager in year 2023
+         4.top most job openings  location
+           United States
 
-        -
+## Limitations
+         This is statistical analysis of available data.
+          
     
